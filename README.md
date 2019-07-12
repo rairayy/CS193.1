@@ -18,3 +18,5 @@ Sign up for the following services:
 - Github Student Developer Pack
 - AWS Educate (from the link above)
 - Twitter Developer Account
+
+NOTE: Some of the jupyter notebooks have notes in them
