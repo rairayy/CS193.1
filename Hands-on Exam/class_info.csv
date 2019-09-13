@@ -1,0 +1,12 @@
+name,orgs,groupmate,unicorn,year born,batch,course,block,high school,familiarity,friends,city,followed,followers,top
+chan,"compsat, speed, ams, celadon",ng,two,1999,2019,bs cs-dgdd,n,pace academy,cuartero,848,quezon,,,
+del_rio,"compsat, uxsoc",lim,one,1999,2021,bs cs,n,ahs,"chan, tanjangco, cuartero, celeres, de_troz, borja, ng, lim, chua",1495,quezon,362,344,"lim, chua, ng"
+tan,"misa, aea, patch, cuisina, writerskill",waley,one,1998,2019,bs mis,s1,ahs,,989,makati,212,179,
+tanjangco,"compsat, aiesec",borja,two,1999,2021,bs cs,n,ahs,"borja, del_rio, lim, chua, cuartero, celeres, ng",1225,quezon,449,462,
+cuartero,"compsat, celadon",chua,two,1999,2021,bs cs-dgdd,n1,xavier,"chan, tanjangco, borja, del_rio, lim, chua, ng, de_troz, celeres",1162,quezon,54,30,"del_rio, lim, chua, tanjangco"
+celeres,"kythe, compsat",de_troz,one,1999,2021,bs cs,f1,xavier,"del_rio, tanjangco, cuartero, celeres, de_troz, borja, ng, chua",1274,san juan,160,187,
+de_troz,"aeces, compsat, sose sanggu",celeres,two,1998,2021,bs cs,u1,hrc,"del_rio, tanjangco, cuartero, celeres, borja, ng, chua",1391,quezon,505,402,
+borja,"compsat, aclc",tanjangco,one,2001,2021,bs cs,n,ahs,"lim, tanjangco, del_rio, de_troz, cuartero, chua, ng, celeres",379,quezon,124,120,"del_rio, tanjangco"
+ng,"compsat, celadon",chan,one,1999,2021,bs cs,n,cksc,"celeres, chua, del_rio, lim, cuartero, borja",393,malabon,38,4,"chua, chan, celeres"
+lim,"compsat, guidon",del_rio,two,1999,2021,bs cs,n1,csa,"del_rio, tanjangco, cuartero, celeres, de_troz, borja, ng, chua",1068,paranaque,391,254,"del_rio, cuartero"
+chua,"compsat, celadon",cuartero,two,1997,2021,bs cs,n,cksc,"borja, del_rio, lim, tanjangco, cuartero, celeres, ng",449,manila,,,"cuartero, del_rio, ng"
